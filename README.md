@@ -62,7 +62,7 @@ See the screenshot above for a preview of the final dashboard.
 
 ---
 
-## 📬 Contact
+## ✅ Conclusion
 
 This project highlights how powerful visual analytics can uncover meaningful patterns from raw data. Through this dashboard, we explored the landscape of data professionals from preferred tools and salaries to work-life satisfaction and job accessibility. This project enhanced my understanding of data cleaning, modeling, and storytelling using Power BI, laying a solid foundation for more advanced analytics projects in the future.
 
